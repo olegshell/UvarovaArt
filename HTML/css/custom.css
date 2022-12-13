@@ -1,0 +1,147 @@
+/* ----------------------------------------------------------------
+	Custom CSS
+
+	Add all your Custom Styled CSS here for New Styles or
+	Overwriting Default Theme Styles for Better Hanlding Updates
+-----------------------------------------------------------------*/
+
+/*=================================================================================
+
+   Template Name:
+   Author: SPLUG
+   Template URL:
+   Author URL:
+   File Description :
+
+===================================================================================
+  Table of Contents
+===================================================================================
+
+	1. Basic
+	2. Helpers Classes
+	3. Layouts
+	4. Header
+		4.1 Navigation
+		4.2 Secondary Nav
+		4.3 Page Header
+	5 Elements
+		5.1 Featured Box
+		5.2 Team
+		5.3 Accordion
+		5.4 Nav
+		5.5 Tabs
+		5.6 Hero Background
+		5.7 Owl Carousel
+		5.8 Brands Grid
+		5.9 Portfolio
+		5.10 List Style
+	6 Footer
+		6.1 Social Icons
+		6.2 Back to Top
+	7 Extra
+
+==================================================================================*/
+/* =================================== */
+/*  1. Basic Style
+/* =================================== */
+
+
+body {
+    background: #dddddd;
+    color: #4c4d4d;
+    font-family: "Open Sans", sans-serif;
+}
+
+
+h1, h2, h3, h4, h5, h6 {
+    color: #252b33;
+    font-family: "Montserrat", sans-serif;
+}
+
+/* =================================== */
+/*  what to take?
+/* =================================== */
+
+ul.table-none {
+    list-style: none;
+    margin: 0px;
+    padding: 0px;
+}
+
+/* =================================== */
+/*  Price
+/* =================================== */
+
+
+.pricing-table-modern {
+    font-size: 72px;
+    color: #d63384;
+    line-height: 1;
+}
+
+ul.pricing-table {
+    list-style: none;
+    text-align: center;
+    padding-left: 0px;
+}
+
+.bg-violet {
+    background: #D8BFD8;
+    padding-bottom: 40px;
+    margin-top: 20px;
+
+}
+
+/*==================================================================================*/
+
+hr {border-top: none;}
+
+/* Text Size */
+
+
+@media (max-width: 320px) {
+
+}
+
+
+@media (min-width: 320px) and (max-width: 480px) {
+
+}
+
+
+@media (min-width: 480px) and (max-width: 667px) {
+
+}
+
+
+@media (min-width: 667px) and (max-width: 768px) {
+
+
+}
+
+@media (min-width: 768px) and (max-width: 1024px) {
+
+
+}
+
+@media (min-width: 1024px) and (max-width: 1224px) {
+
+
+}
+
+@media (min-width: 1224px) {
+
+
+}
+
+.background-img {
+    background-image: url("../images/uvarova-art/sand.png");
+    background-size: cover;
+    /*background-attachment: fixed;*/
+    /*background-position: center 0px;*/
+
+}
+
+
+
+
